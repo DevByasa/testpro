@@ -1,2 +1,3 @@
 its my new file 
 print(hello world)
+print(*a)
